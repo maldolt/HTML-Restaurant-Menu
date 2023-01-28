@@ -84,3 +84,20 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+#banner {
+    width: 100%;
+    height: auto;
+}
+.service {
+    display: inline-block;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    width: 100%;
+}
